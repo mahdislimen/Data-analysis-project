@@ -8,12 +8,12 @@ Data Analytics Project - Online Ticket Sales
 **Table of Contenst :**    
 
 - [Dataset :](#dataset-)
-- [Overview :](#overview-)
+  - [Overview :](#overview-)
 
 # Dataset :    
 this is a dataset of online ticket sales for various events. The aim of this analysis is to provide key information on sales performance, and to draw lessons for improving sales and pricing strategies.  
 
-# Overview : 
+## Overview : 
 
 The Online Ticket Sales Database contains information related to ticket sales for various events. The dataset consists of five columns:
 
