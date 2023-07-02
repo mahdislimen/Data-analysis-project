@@ -9,7 +9,7 @@ Data Analytics Project - Online Ticket Sales
 
 - [Dataset :](#dataset-)
   - [Overview :](#overview-)
-  - [Data Dictionary](#data-dictionary)
+  - [Data Dictionary :](#data-dictionary-)
 
 # Dataset :    
 this is a dataset of online ticket sales for various events. The aim of this analysis is to provide key information on sales performance, and to draw lessons for improving sales and pricing strategies.  
@@ -34,7 +34,7 @@ qtysold: The qtysold column indicates the quantity or number of tickets sold for
 |  3 | 2008-10-29T00:00:00.000Z | Phantom of the Opera | Shows      |               93 |       244 |
 |  4 | 2008-04-26T00:00:00.000Z | Shakira              | Concerts   |              193 |       219 | 
 
-## Data Dictionary
+## Data Dictionary : 
 
 | Column Name      | Description                                       | Data Type |
 |------------------|---------------------------------------------------|-----------|
@@ -44,3 +44,33 @@ qtysold: The qtysold column indicates the quantity or number of tickets sold for
 | priceperticket   | The price of each ticket for the event.          | int64     |
 | qtysold          | The quantity of tickets sold for the event.      | int64     | 
 
+**Accounting** 
+
+1 -- Calculation of total number of tickets sold 
+  💡The total number of tickets sold was : 18201 
+2 -- Calculating total sales revenue  
+  💡 Total sales revenue is: 3666394 
+3 -- Calculation of average sales by event category 
+  💡  Concerts :185.574468 ||  Shows : 178.849057 
+4 -- Calculation of most active sales period  
+  💡  The most active sales period was on 2008-08-31 00:00:00+00:00 with a total of 1034 tickets sold.
+
+**Analyze**  
+
+1 -- Analysis sales by date 
+![Alt text](image.png) 
+2 -- Analysis of sales by month 
+![Alt text](image-1.png) 
+3 -- Analysis of sales by event category 
+![Alt text](image-2.png) 
+4 -- Analysis of the correlation between price and quantity sold 
+![Alt text](image-3.png) 
+
+
+**Visualize** 
+
+1 -- Visualize the top events by price 
+![ ](image-4.png) 
+2 -- Visualize the top events by ticket sales 
+![ ](image-5.png) 
+3 -- 
