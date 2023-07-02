@@ -10,7 +10,9 @@ Data Analytics Project - Online Ticket Sales
 - [Dataset :](#dataset-)
   - [Overview :](#overview-)
   - [Data Dictionary :](#data-dictionary-)
-
+  - [Accounting](#accounting)
+  - [Analyze](#analyze)
+  - [Visualize](#visualize)
 # Dataset :    
 this is a dataset of online ticket sales for various events. The aim of this analysis is to provide key information on sales performance, and to draw lessons for improving sales and pricing strategies.  
 
@@ -44,7 +46,7 @@ qtysold: The qtysold column indicates the quantity or number of tickets sold for
 | priceperticket   | The price of each ticket for the event.          | int64     |
 | qtysold          | The quantity of tickets sold for the event.      | int64     | 
 
-**Accounting** 
+## Accounting ## 
 
 1 -- Calculation of total number of tickets sold 
 
@@ -62,7 +64,7 @@ qtysold: The qtysold column indicates the quantity or number of tickets sold for
 
   💡  The most active sales period was on 2008-08-31 00:00:00+00:00 with a total of 1034 tickets sold.
 
-**Analyze**  
+##  Analyze ##    
 
 1 -- Analysis sales by date 
 ![Alt text](image.png) 
@@ -74,7 +76,7 @@ qtysold: The qtysold column indicates the quantity or number of tickets sold for
 ![Alt text](image-3.png) 
 
 
-**Visualize** 
+##  Visualize ## 
 
 1 -- Visualize the top events by price 
 ![ ](image-4.png) 
