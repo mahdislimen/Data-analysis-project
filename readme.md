@@ -9,6 +9,7 @@ Data Analytics Project - Online Ticket Sales
 
 - [Dataset :](#dataset-)
   - [Overview :](#overview-)
+  - [Data Dictionary](#data-dictionary)
 
 # Dataset :    
 this is a dataset of online ticket sales for various events. The aim of this analysis is to provide key information on sales performance, and to draw lessons for improving sales and pricing strategies.  
@@ -33,4 +34,13 @@ qtysold: The qtysold column indicates the quantity or number of tickets sold for
 |  3 | 2008-10-29T00:00:00.000Z | Phantom of the Opera | Shows      |               93 |       244 |
 |  4 | 2008-04-26T00:00:00.000Z | Shakira              | Concerts   |              193 |       219 | 
 
+## Data Dictionary
+
+| Column Name      | Description                                       | Data Type |
+|------------------|---------------------------------------------------|-----------|
+| caldate          | The date of the ticket sale.                     | object    |
+| eventname        | The name of the event for which tickets were sold.| object    |
+| catgroup         | The category group of the event.                 | object    |
+| priceperticket   | The price of each ticket for the event.          | int64     |
+| qtysold          | The quantity of tickets sold for the event.      | int64     | 
 
