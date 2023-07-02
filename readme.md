@@ -47,12 +47,19 @@ qtysold: The qtysold column indicates the quantity or number of tickets sold for
 **Accounting** 
 
 1 -- Calculation of total number of tickets sold 
-  💡The total number of tickets sold was : 18201 
-2 -- Calculating total sales revenue  
+
+  💡The total number of tickets sold was : 18201  
+
+2 -- Calculating total sales revenue   
+
   💡 Total sales revenue is: 3666394 
+
 3 -- Calculation of average sales by event category 
+
   💡  Concerts :185.574468 ||  Shows : 178.849057 
+
 4 -- Calculation of most active sales period  
+
   💡  The most active sales period was on 2008-08-31 00:00:00+00:00 with a total of 1034 tickets sold.
 
 **Analyze**  
