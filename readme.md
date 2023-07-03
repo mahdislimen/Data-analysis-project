@@ -1,11 +1,8 @@
 
 [![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mahdislimen/Data-analysis-project/blob/main/index.ipynb)
-
-
-
-
+<br>
 Data Analytics Project - Online Ticket Sales     
-
+<br>
 ![img](image/00420_tickets_online-updated.jpg)   
 <br> 
 **Table of Contenst :**    
