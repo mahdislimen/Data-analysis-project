@@ -85,4 +85,3 @@ qtysold: The qtysold column indicates the quantity or number of tickets sold for
 3 --  
 
 
-https://colab.research.google.com/github/mahdislimen/Data-analysis-project/blob/main/index.ipynb
