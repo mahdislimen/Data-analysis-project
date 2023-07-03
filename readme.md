@@ -1,5 +1,5 @@
 
-![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
 Data Analytics Project - Online Ticket Sales     
 
