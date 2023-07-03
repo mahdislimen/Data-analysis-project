@@ -1,7 +1,7 @@
 
+![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+
 Data Analytics Project - Online Ticket Sales     
-
-
 
 ![img](image/00420_tickets_online-updated.jpg)   
 <br> 
@@ -82,6 +82,6 @@ qtysold: The qtysold column indicates the quantity or number of tickets sold for
 ![ ](image-4.png) 
 2 -- Visualize the top events by ticket sales 
 ![ ](image-5.png) 
-3 --  
+
 
 
