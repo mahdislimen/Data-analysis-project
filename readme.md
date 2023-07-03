@@ -1,5 +1,5 @@
 
-[![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mahdislimen/Data-analysis-project/blob/main/index.ipynb)
+[![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/mahdislimen/f018aefb87da868775aaa25e97ec9882/index.ipynb)
 <br>
 Data Analytics Project - Online Ticket Sales     
 <br>
